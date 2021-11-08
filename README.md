@@ -12,10 +12,10 @@ date: "8 de Noviembre de 2021"
 
 ## Código
 
-* Crawlers/
+* Crawlers:
   * base_crawler.
   * amazon_crawler.
-* Models/
+* Models:
   * article.
 
 * main.py: fichero principal, su ejecución da lugar a la base de datos ejecutando todos los crawlers.
