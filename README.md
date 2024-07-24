@@ -1,5 +1,5 @@
 ---
-title: "uoc-datascrapping-amazon: Datos sobre portátiles de Amazon"
+title: "Datos sobre portátiles de Amazon"
 author: "Sofia Holod"
 date: "8 de Noviembre de 2021"
 ---
