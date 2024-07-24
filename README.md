@@ -6,9 +6,6 @@ date: "8 de Noviembre de 2021"
 
 # Ficheros
 
-## Doc
-
-* PDF
 
 ## Código
 
